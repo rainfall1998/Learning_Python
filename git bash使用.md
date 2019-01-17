@@ -40,10 +40,3 @@ git 密码：th0210
 
 用来忽略文件夹内的东西
 
-8出现冲突，无法上传
-
-首先pull再push
-
-
-
-2python dataform
