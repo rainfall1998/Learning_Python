@@ -2,9 +2,10 @@
 
 git 密码：th0210
 
-首先 1、git clone 网址
+首先 
+1、git clone 网址
 
-​             或者 git init 作为本地库
+或者 git init 作为本地库
 
 2、git add .或者filename
 
