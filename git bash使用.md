@@ -1,5 +1,7 @@
 1 git bash使用
 
+git 密码：th0210
+
 首先 1、git clone 网址
 
 ​             或者 git init 作为本地库
@@ -23,3 +25,4 @@
 6、git log
 
 查看历代信息
+
