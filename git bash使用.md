@@ -26,4 +26,24 @@ git 密码：th0210
 
 查看历代信息
 
+7 忽略文件夹
+
+首先新建一个1.gitignore文件，使用`mv 1.gitignore .gitignore`重命名
+
+在里面添加忽略项，每行一个，注意，如果是文件夹，不仅要写
+
+/bin
+
+还要写
+
+/bin/
+
+用来忽略文件夹内的东西
+
+8出现冲突，无法上传
+
+首先pull再push
+
+
+
 2python dataform
