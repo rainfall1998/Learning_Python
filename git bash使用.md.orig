@@ -30,6 +30,8 @@
 首先新建一个1.gitignore文件，使用`mv 1.gitignore .gitignore`重命名
 
 在里面添加忽略项，每行一个，注意，如果是文件夹，不仅要写
+<<<<<<< HEAD
+=======
 
 /bin
 
@@ -39,6 +41,4 @@
 
 用来忽略文件夹内的东西
 
-=======
-查看历代信息
->>>>>>> parent of b1609b8... add the password
+>>>>>>> 0bf41d00b5b981afbf5835d5c2964e04ee6a4b6a
